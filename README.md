@@ -5,4 +5,4 @@
 
 ![ScreenShot of output of code](screenshot sql1.png)
 
-![ScreenShot of output of code](screenshot sql2.png)
+![ScreenShot of output of code](Screenshot sql2.png)
