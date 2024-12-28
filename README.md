@@ -3,6 +3,6 @@
 - MySQL
 ## Output Screenshots:
 
-![ScreenShot of output of code](screenshot-java-proj.png)
+![ScreenShot of output of code](screenshot-sql1.png)
 
-![ScreenShot of output of code](screenshot-java-proj.png)
+![ScreenShot of output of code](screenshot-sql2.png)
